@@ -5,4 +5,6 @@
 // const findIndex = require('./ArrayMethods/findIndex')
 // const test = require('./ArrayMethods/test')
 
-const iterator = require('./FastestIterate/iterator')
+// const iterator = require('./FastestIterate/iterator')
+
+// const synchronous = require('./asynchronous/synchoronous')
